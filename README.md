@@ -1,2 +1,2 @@
 # PlantPathology.1
-.1
+images could be donwloaded
